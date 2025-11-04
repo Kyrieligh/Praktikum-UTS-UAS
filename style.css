@@ -1,0 +1,320 @@
+.frame {
+  background-color: #ff8da4;
+  width: 100%;
+  min-width: 1920px;
+  min-height: 1080px;
+  position: absolute;
+}
+
+.frame .rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  background-color: #ffffff;
+}
+
+.frame .div {
+  position: absolute;
+  top: 61px;
+  left: 0;
+  width: 150px;
+  height: 1019px;
+  background-color: #495e6f;
+}
+
+.frame .rectangle-2 {
+  position: flex;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 61px;
+  background-color: #ff8da4;
+  opacity: 0.9;
+}
+
+.frame .subtract {
+  position: absolute;
+  top: 285px;
+  left: 30px;
+  width: 92px;
+  height: 83px;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  top: 131px;
+  left: 621px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .unread-messeges {
+  position: absolute;
+  top: 127px;
+  left: 212px;
+  width: 300px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  top: 127px;
+  left: 514px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .line {
+  position: absolute;
+  top: 216px;
+  left: 198px;
+  width: 729px;
+  height: 5px;
+}
+
+.frame .name-chara {
+  top: 419px;
+  position: absolute;
+  left: 198px;
+  width: 715px;
+  height: 133px;
+}
+
+.frame .ellipse {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 133px;
+  height: 133px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-3 {
+  position: absolute;
+  top: 27px;
+  left: 152px;
+  width: 316px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-4 {
+  position: absolute;
+  top: 73px;
+  left: 152px;
+  width: 559px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #575757;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .name-chara-2 {
+  top: 585px;
+  position: absolute;
+  left: 198px;
+  width: 715px;
+  height: 133px;
+}
+
+.frame .name-chara-3 {
+  top: 751px;
+  position: absolute;
+  left: 198px;
+  width: 715px;
+  height: 133px;
+}
+
+.frame .name-chara-4 {
+  top: 917px;
+  position: absolute;
+  left: 198px;
+  width: 715px;
+  height: 133px;
+}
+
+.frame .img {
+  top: 133px;
+  left: 960px;
+  position: absolute;
+  width: 133px;
+  height: 133px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-5 {
+  position: absolute;
+  top: 153px;
+  left: 1114px;
+  width: 316px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .mid_line_y {
+  position: absolute;
+  top: 66px;
+  left: 941px;
+  width: 3px;
+  height: 1008px;
+  object-fit: cover;
+}
+
+.frame .message_outer {
+ display: flex;
+}
+
+.frame .message_iinner {
+  flex: 1;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.frame .message_action {
+  width: 67;
+  padding-right: 5px;
+}
+
+.frame .message_spacer {
+  flex: 1;
+}
+
+.frame .message_bubble {
+  overflow-wrap: break-word;
+}
+
+.frame .message_action {
+  flex-shrink: 0;
+}
+
+
+
+.frame .bubble p {
+  color: white;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.frame .text-wrapper-6 {
+  position: absolute;
+  top: 214px;
+  left: 1125px;
+  width: 587px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .rectangle_people {
+  position: absolute;
+  top: 247px;
+  left: 179px;
+  width: 763px;
+  height: 145px;
+  background-color: #495e6f21;
+}
+
+.frame .filter {
+  position: absolute;
+  top: 120px;
+  left: 752px;
+  width: 154px;
+  height: 62px;
+}
+
+.frame .rectangle-5 {
+  position: absolute;
+  top: 0;
+  left: -3px;
+  width: 159px;
+  height: 70px;
+}
+
+.frame .rectangle-6 {
+  position: absolute;
+  top: 13px;
+  left: 30px;
+  width: 74px;
+  height: 8px;
+  background-color: #495e6f;
+}
+
+.frame .rectangle-7 {
+  position: absolute;
+  top: 26px;
+  left: 30px;
+  width: 74px;
+  height: 9px;
+  background-color: #495e6f;
+}
+
+.frame .rectangle-8 {
+  position: absolute;
+  top: 40px;
+  left: 30px;
+  width: 74px;
+  height: 8px;
+  background-color: #495e6f;
+}
+
+.frame .vector {
+  position: absolute;
+  top: 13px;
+  left: 113px;
+  width: 9px;
+  height: 36px;
+}
+
+.frame .name-chara-5 {
+  top: 253px;
+  position: absolute;
+  left: 198px;
+  width: 715px;
+  height: 133px;
+}
+
+.frame .text-wrapper-7 {
+  position: absolute;
+  top: 27px;
+  left: 152px;
+  width: 316px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
